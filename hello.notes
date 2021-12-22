@@ -1,0 +1,28 @@
+hello
+TODO:
+
+- [!] print hello world
+
+! mission critical ! 
+" Not really."
+
+
+
+
+
+[python]
+print("Hello World")
+[end]
+
+
+TODO :
+[!] what is the difference between python and javascript?
+[!] what can you use for python
+[!] what can you use for javascript
+
+
+
+[js]
+console.log("Hello World")
+[end]
+
